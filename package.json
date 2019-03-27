@@ -12,19 +12,20 @@
   },
   "author": "Ronnie Brown",
   "devDependencies": {
-    "gulp": "^3.8.11",
-    "gulp-jshint": "^1.9.0",
-    "gulp-ruby-sass": "^1.0.5",
-    "gulp-sourcemaps": "^1.5.2",
+    "gulp": "^4.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-sourcemaps": "^2.6.5",
     "gulp-webserver": "^0.9.1"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rnnbrwn/starter/issues"
   },
-  "homepage": "https://github.com/rnnbrwn/starter#readme",
-  "dependencies": {
-    "lodash": "^4.17.11",
-    "minimatch": "^3.0.4"
-  }
+  "homepage": "https://github.com/rnnbrwn/starter#readme"
+  // ,
+  // "dependencies": {
+  //   "lodash": "^4.17.11",
+  //   "minimatch": "^3.0.4"
+  // }
 }
