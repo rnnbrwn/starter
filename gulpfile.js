@@ -11,7 +11,7 @@ gulp.task('js', function() {
     });
 
 gulp.task('sass', function () {
-    return sass('src/sass/style.scss', {
+    return sass('src/sass/main.scss', {
         sourcemap: true,
         style: 'expanded'
     })

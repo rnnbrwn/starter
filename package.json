@@ -22,10 +22,10 @@
   "bugs": {
     "url": "https://github.com/rnnbrwn/starter/issues"
   },
-  "homepage": "https://github.com/rnnbrwn/starter#readme"
-  // ,
-  // "dependencies": {
-  //   "lodash": "^4.17.11",
-  //   "minimatch": "^3.0.4"
-  // }
+  "homepage": "https://github.com/rnnbrwn/starter#readme",
+  "dependencies": {
+    "jshint": "^2.10.2",
+    "lodash": "^4.17.11",
+    "minimatch": "^3.0.4"
+  }
 }
