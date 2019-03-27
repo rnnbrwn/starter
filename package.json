@@ -12,7 +12,7 @@
   },
   "author": "Ronnie Brown",
   "devDependencies": {
-    "gulp": "^4.0.0",
+    "gulp": "^3.8.11",
     "gulp-jshint": "^2.1.0",
     "gulp-ruby-sass": "^4.0.0",
     "gulp-sourcemaps": "^2.6.5",
