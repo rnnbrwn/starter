@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "## Stuff TBC",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnnbrwn/starter.git"
+  },
+  "author": "Ronnie Brown",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.0",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-webserver": "^0.9.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnnbrwn/starter/issues"
+  },
+  "homepage": "https://github.com/rnnbrwn/starter#readme"
+}
