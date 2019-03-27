@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/rnnbrwn/starter/issues"
   },
-  "homepage": "https://github.com/rnnbrwn/starter#readme"
+  "homepage": "https://github.com/rnnbrwn/starter#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "minimatch": "^3.0.4"
+  }
 }

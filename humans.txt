@@ -1,0 +1,19 @@
+/* TEAM */
+                           
+Your title: Ronnie Brown.
+Site: https://ronniebrown.scot
+Twitter: @rnnbrwn.
+Location: Glasgow, Scotland.
+
+
+/* THANKS */
+
+Name: name or url
+
+
+/* SITE */
+Last update: YYYY/MM/DD 
+Standards: e.g. HTML5, CSS3,..
+Components: e.g. Modernizr, jQuery, etc.
+Software: e.g. Visual Studio Code, Sketch
+   
